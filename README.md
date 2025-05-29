@@ -1,4 +1,4 @@
-# My visit here is like meeting a giant snake.
+# My visit here is like meeting a groundhog.
 
 <p align="left">
   <a href="https://github.com/R35691">
