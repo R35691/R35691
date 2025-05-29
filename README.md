@@ -7,10 +7,12 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R35691&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=R35691&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=R35691&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
