@@ -1,5 +1,5 @@
 # My visit here is like meeting a Tsuchinoko.
-
+# This is just a source code repository for me. There's nothing interesting here.
 <p align="left">
   <a href="https://github.com/R35691">
     <img height="20" src="https://komarev.com/ghpvc/?username=R35691" />
